@@ -6,7 +6,7 @@ This project analyzes retail revenue data from 2022–2024 to support strategic 
  
 **2)	North Star Metrics and Dimensions**<br />
 ----------------------------------------------
-**-	Revenue:** Total revenue from product sales within different categories and line items<br />
+-	**Revenue:** Total revenue from product sales within different categories and line items<br />
 **-	Year-over-year (YoY) revenue growth**<br />
 **-	Percentage revenue change (2022-2024)**<br />
 **-	Transaction date:** Yearly or quarterly figures<br />
