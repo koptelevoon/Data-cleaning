@@ -1,1 +1,64 @@
-# Data-cleaning
+Investment Strategy Analysis: Product Expansion vs Channel Expansion
+
+1)	Project overview
+Main business question: Where should we invest next: product expansion or channel expansion?
+This project analyzes retail revenue data from 2022–2024 to support strategic investment decisions. Using Power BI, I evaluate product category performance and sales channel dynamics (Online vs In-store) to identify where future growth opportunities lie and where investments should be optimized or prioritized.
+ 
+
+2)	North Star Metrics and Dimensions
+
+•	Revenue: Total revenue from product sales within different categories and line items
+•	Year-over-year (YoY) revenue growth
+•	Percentage revenue change (2022-2024)
+•	Transaction date: Yearly or quarterly figures
+•	Product category: Beverages, Butchers, Computers and electronic accessories, Electronic household essentials, Food, Furniture, Milk Products and Patisserie
+•	Channel: In-store and Online
+
+3)	Data Quality & Preparation
+The original dataset used for this project was not ready for analysis and contained several common real-world data quality issues.
+Before any exploratory data analysis (EDA) or dashboarding, the dataset was cleaned and standardized to ensure reliable insights.
+All data quality issues identified, and the actions taken to resolve them are fully documented in the “Issues log” tab of the retail_store_sales.xlsx file.
+This log provides transparency on:
+•	The issue detected
+•	The quantity of rows in which the issue is witnessed
+•	An indication of whether the issue is solvable (“Yes” or “No”)
+•	The corresponding resolution on how the issue is handled with, or why the issue cannot be resolved
+
+Summary of Insights
+
+Channel level insights:
+•	Online channel significantly outperformed In-store sales in 2022
+•	In 2023 and 2024, Online and In-store sales show similar revenue performance
+•	Both channels grew in similar fashion from 2023 to 2024 indicating channel saturation
+Implication: Channel expansion alone is unlikely to be the strongest growth lever
+
+Product Portfolio Insights:
+High Revenue + High Growth (Scale / Invest)
+-	Beverages
+-	Furniture
+-	Food
+High Revenue + Low Growth (Mature / Defend)
+-	Butchers
+-	Electronic Household Essentials
+Low Revenue + High Growth (Emerging Opportunities)
+-	Computers and electronic accesories
+Low Revenue + Low Growth (Deprioritize / Exit)
+-	Milk products
+-	Patisserie
+
+Revenue Volatility Analysis (Risk Lens)
+The most volatile product categories based on YoY revenue growth:
+Category	2023 YoY	2024 YoY
+Beverages	-12.3%	+33.1%
+Butchers	-25.9%	+12.3%
+Food	+18.5%	-2.5%
+
+
+Recommendations & Next Steps
+
+Answer to main business question: The data indicates that future investment should prioritize product expansion over channel expansion.
+
+•	Prioritize product expansion over channel expansion: Online and In-store channels have converged in performance since 2023, limiting incremental upside from further channel-focused investment.
+•	Invest selectively in high-growth product categories: Beverages, Furniture, and Food combine strong revenue contribution with growth momentum, while Computers and electronic accessories represent promising emerging opportunities.
+•	Optimize mature categories, don’t overinvest: Butchers and Electronic Household Essentials should focus on efficiency and margin protection rather than aggressive growth.
+•	Deprioritize low-impact categories: Patisserie and Milk Products show limited scale and growth and are unlikely to generate meaningful returns.
