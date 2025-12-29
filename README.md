@@ -7,7 +7,7 @@
 This project analyzes retail revenue data from 2022–2024 to support strategic investment decisions. Using Power BI, I evaluate product category performance and sales channel dynamics (Online vs In-store) to identify where future growth opportunities lie and where investments should be optimized or prioritized.<br /><br />
  
 **2)	North Star Metrics and Dimensions**<br />
-
+----------------------------------------------
 **•	Revenue:** Total revenue from product sales within different categories and line items
 **•	Year-over-year (YoY) revenue growth**
 **•	Percentage revenue change (2022-2024)**
@@ -16,6 +16,7 @@ This project analyzes retail revenue data from 2022–2024 to support strategic 
 **•	Channel:** In-store and Online<br /><br />
 
 **3)	Data Quality & Preparation**
+---------------------------------
 The original dataset used for this project was not ready for analysis and contained several common real-world data quality issues.<br />
 
 Before any exploratory data analysis (EDA) or dashboarding, the dataset was cleaned and standardized to ensure reliable insights.<br />
@@ -28,8 +29,8 @@ This log provides transparency on:
 •	An indication of whether the issue is solvable (“Yes” or “No”)
 •	The corresponding resolution on how the issue is handled with, or why the issue cannot be resolved<br /><br />
 
-**)4 Summary of Insights**<br />
-
+**4) Summary of Insights**<br />
+--------------------------------
 **Channel level insights:**
 •	Online channel significantly outperformed In-store sales in 2022
 •	In 2023 and 2024, Online and In-store sales show similar revenue performance
@@ -63,7 +64,8 @@ Butchers   -25.9%	   +12.3%
 Food	      +18.5%	   -2.5%<br /><br />
 
 
-**Recommendations & Next Steps**
+**5)Recommendations & Next Steps**
+----------------------------------
 *Answer to main business question: The data indicates that future investment should prioritize product expansion over channel expansion*<br />
 
 **•	Prioritize product expansion over channel expansion:** Online and In-store channels have converged in performance since 2023, limiting incremental upside from further channel-focused investment.
