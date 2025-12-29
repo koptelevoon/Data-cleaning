@@ -56,10 +56,10 @@ Low Revenue + Low Growth (Deprioritize / Exit)
 **Revenue Volatility Analysis (Risk Lens)**
 The most volatile product categories based on YoY revenue growth:<br />
 
-Category *emsp*	  2023 YoY *emsp*	 2024 YoY<br />
-Beverages *emsp*  -12.3% *emsp*	   +33.1%<br />
-Butchers *emsp*   -25.9% *emsp*	   +12.3%<br />
-Food *emsp*	      +18.5% *emsp*	   -2.5%<br /><br />
+Category *Tabspace**Tabspace*	  2023 YoY *Tabspace**Tabspace*	 2024 YoY<br />
+Beverages *Tabspace**Tabspace*  -12.3% *Tabspace**Tabspace*	   +33.1%<br />
+Butchers *Tabspace**Tabspace*   -25.9% *Tabspace**Tabspace*	   +12.3%<br />
+Food *Tabspace**Tabspace*	      +18.5% *Tabspace**Tabspace*	   -2.5%<br /><br />
 
 
 **5) Recommendations & Next Steps**
