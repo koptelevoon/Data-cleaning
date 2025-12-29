@@ -53,7 +53,7 @@ Low Revenue + Low Growth (Deprioritize / Exit)
 -	Milk products
 -	Patisserie<br /><br />
 
-**Revenue Volatility Analysis (Risk Lens)**<br />
+**Revenue Volatility Analysis (Risk Lens):**<br />
 The most volatile product categories based on YoY revenue growth:<br />
 
 *Category&nbsp;&nbsp;&nbsp;&nbsp;   2023 YoY&nbsp;&nbsp; 	 2024 YoY*<br />
