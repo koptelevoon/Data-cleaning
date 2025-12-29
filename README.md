@@ -1,4 +1,4 @@
-#**Investment Strategy Analysis: Product Expansion vs Channel Expansion**<br />
+<h16>**Investment Strategy Analysis: Product Expansion vs Channel Expansion**<h16 /><br />
 
 **1)	Project overview**<br />
 -----------------------------
