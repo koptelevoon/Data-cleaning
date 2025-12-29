@@ -57,9 +57,9 @@ Low Revenue + Low Growth (Deprioritize / Exit)
 The most volatile product categories based on YoY revenue growth:<br />
 
 Category&nbsp;&nbsp;&nbsp;&nbsp;   2023 YoY&nbsp;&nbsp; 	 2024 YoY<br />
-Beverages&nbsp;&nbsp;  -12.3%&nbsp;&nbsp;&nbsp; 	   +33.1%<br />
-Butchers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -25.9%&nbsp;&nbsp;&nbsp; 	   +12.3%<br />
-Food&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	     +18.5%&nbsp;&nbsp;&nbsp; 	   -2.5%<br /><br />
+Beverages&nbsp;&nbsp;  -12.3%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	   +33.1%<br />
+Butchers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -25.9%&nbsp;&nbsp;&nbsp;&nbsp; 	   +12.3%<br />
+Food&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	     +18.5%&nbsp;&nbsp;&nbsp;&nbsp; 	   -2.5%<br /><br />
 
 
 **5) Recommendations & Next Steps**
