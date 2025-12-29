@@ -3,22 +3,22 @@
 **1)	Project overview**
 *Main business question: Where should we invest next: product expansion or channel expansion?*<br />
 
-This project analyzes retail revenue data from 2022–2024 to support strategic investment decisions. Using Power BI, I evaluate product category performance and sales channel dynamics (Online vs In-store) to identify where future growth opportunities lie and where investments should be optimized or prioritized.
- <br />
-**2)	North Star Metrics and Dimensions**
-<br />
+This project analyzes retail revenue data from 2022–2024 to support strategic investment decisions. Using Power BI, I evaluate product category performance and sales channel dynamics (Online vs In-store) to identify where future growth opportunities lie and where investments should be optimized or prioritized.<br />
+ 
+**2)	North Star Metrics and Dimensions**<br />
+
 **•	Revenue:** Total revenue from product sales within different categories and line items
 **•	Year-over-year (YoY) revenue growth**
 **•	Percentage revenue change (2022-2024)**
 **•	Transaction date:** Yearly or quarterly figures
 **•	Product category:** Beverages, Butchers, Computers and electronic accessories, Electronic household essentials, Food, Furniture, Milk Products and Patisserie
-**•	Channel:** In-store and Online
-<br />
+**•	Channel:** In-store and Online<br />
+
 **3)	Data Quality & Preparation**
-The original dataset used for this project was not ready for analysis and contained several common real-world data quality issues.
-<br />
-Before any exploratory data analysis (EDA) or dashboarding, the dataset was cleaned and standardized to ensure reliable insights.
-<br />
+The original dataset used for this project was not ready for analysis and contained several common real-world data quality issues.<br />
+
+Before any exploratory data analysis (EDA) or dashboarding, the dataset was cleaned and standardized to ensure reliable insights.<br />
+
 All data quality issues identified, and the actions taken to resolve them are fully documented in the “Issues log” tab of the *retail_store_sales.xlsx* file.
 <br />
 This log provides transparency on:
