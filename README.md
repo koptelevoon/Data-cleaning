@@ -29,14 +29,14 @@ This log provides transparency on:
 
 **4) Summary of Insights**<br />
 --------------------------------
-**Channel level insights:**
+**Channel level insights:**<br />
 •	Online channel significantly outperformed In-store sales in 2022
 •	In 2023 and 2024, Online and In-store sales show similar revenue performance
 •	Both channels grew in similar fashion from 2023 to 2024 indicating channel saturation<br />
 
 Implication: Channel expansion alone is unlikely to be the strongest growth lever<br />
 
-**Product Portfolio Insights:**
+**Product Portfolio Insights:**<br />
 High Revenue + High Growth (Scale / Invest)
 -	Beverages
 -	Furniture
