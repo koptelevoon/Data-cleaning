@@ -3,7 +3,7 @@
 **1)	Project overview**
 *Main business question: Where should we invest next: product expansion or channel expansion?*<br />
 
-This project analyzes retail revenue data from 2022–2024 to support strategic investment decisions. Using Power BI, I evaluate product category performance and sales channel dynamics (Online vs In-store) to identify where future growth opportunities lie and where investments should be optimized or prioritized.<br />
+This project analyzes retail revenue data from 2022–2024 to support strategic investment decisions. Using Power BI, I evaluate product category performance and sales channel dynamics (Online vs In-store) to identify where future growth opportunities lie and where investments should be optimized or prioritized.<br /><br />
  
 **2)	North Star Metrics and Dimensions**<br />
 
