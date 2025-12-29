@@ -1,5 +1,5 @@
 **Investment Strategy Analysis: Product Expansion vs Channel Expansion**
-
+<br />
 **1)	Project overview**
 *Main business question: Where should we invest next: product expansion or channel expansion?*
 
