@@ -7,11 +7,11 @@ This project analyzes retail revenue data from 2022–2024 to support strategic 
 **2)	North Star Metrics and Dimensions**<br />
 ----------------------------------------------
 -	**Revenue:** Total revenue from product sales within different categories and line items<br />
-**-	Year-over-year (YoY) revenue growth**<br />
-**-	Percentage revenue change (2022-2024)**<br />
-**-	Transaction date:** Yearly or quarterly figures<br />
-**-	Product category:** Beverages, Butchers, Computers and electronic accessories, Electronic household essentials, Food, Furniture, Milk Products and Patisserie<br />
-**-	Channel:** In-store and Online<br /><br />
+-	**Year-over-year (YoY) revenue growth**<br />
+-	**Percentage revenue change 2022-2024**<br />
+-	**Transaction date:** Yearly or quarterly figures<br />
+-	**Product category:** Beverages, Butchers, Computers and electronic accessories, Electronic household essentials, Food, Furniture, Milk Products and Patisserie<br />
+-	**Channel:** In-store and Online<br /><br />
 
 **3)	Data Quality & Preparation**
 ---------------------------------
@@ -66,7 +66,7 @@ Food&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	     +18.5%&nb
 ----------------------------------
 *Answer to main business question: The data indicates that future investment should prioritize product expansion over channel expansion*<br />
 
-**-	Prioritize product expansion over channel expansion:** Online and In-store channels have converged in performance since 2023, limiting incremental upside from further channel-focused investment.<br />
-**-	Invest selectively in high-growth product categories:** Beverages, Furniture, and Food combine strong revenue contribution with growth momentum, while Computers and electronic accessories represent promising emerging opportunities.<br />
-**-	Optimize mature categories, don’t overinvest:** Butchers and Electronic Household Essentials should focus on efficiency and margin protection rather than aggressive growth.<br />
-**-	Deprioritize low-impact categories:** Patisserie and Milk Products show limited scale and growth and are unlikely to generate meaningful returns.
+-	**Prioritize product expansion over channel expansion:** Online and In-store channels have converged in performance since 2023, limiting incremental upside from further channel-focused investment.<br />
+-	**Invest selectively in high-growth product categories:** Beverages, Furniture, and Food combine strong revenue contribution with growth momentum, while Computers and electronic accessories represent promising emerging opportunities.<br />
+-	**Optimize mature categories, don’t overinvest:** Butchers and Electronic Household Essentials should focus on efficiency and margin protection rather than aggressive growth.<br />
+-	**Deprioritize low-impact categories:** Patisserie and Milk Products show limited scale and growth and are unlikely to generate meaningful returns.
