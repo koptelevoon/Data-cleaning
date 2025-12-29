@@ -1,5 +1,3 @@
-<h24>**Investment Strategy Analysis: Product Expansion vs Channel Expansion**<h24 /><br />
-
 **1)	Project overview**<br />
 -----------------------------
 *Main business question: Where should we invest next: product expansion or channel expansion?*<br />
@@ -8,11 +6,11 @@ This project analyzes retail revenue data from 2022–2024 to support strategic 
  
 **2)	North Star Metrics and Dimensions**<br />
 ----------------------------------------------
-**•	Revenue:** Total revenue from product sales within different categories and line items
-**•	Year-over-year (YoY) revenue growth**
-**•	Percentage revenue change (2022-2024)**
-**•	Transaction date:** Yearly or quarterly figures
-**•	Product category:** Beverages, Butchers, Computers and electronic accessories, Electronic household essentials, Food, Furniture, Milk Products and Patisserie
+**•	Revenue:** Total revenue from product sales within different categories and line items<br />
+**•	Year-over-year (YoY) revenue growth**<br />
+**•	Percentage revenue change (2022-2024)**<br />
+**•	Transaction date:** Yearly or quarterly figures<br />
+**•	Product category:** Beverages, Butchers, Computers and electronic accessories, Electronic household essentials, Food, Furniture, Milk Products and Patisserie<br />
 **•	Channel:** In-store and Online<br /><br />
 
 **3)	Data Quality & Preparation**
@@ -64,7 +62,7 @@ Butchers   -25.9%	   +12.3%
 Food	      +18.5%	   -2.5%<br /><br />
 
 
-**5)Recommendations & Next Steps**
+**5) Recommendations & Next Steps**
 ----------------------------------
 *Answer to main business question: The data indicates that future investment should prioritize product expansion over channel expansion*<br />
 
