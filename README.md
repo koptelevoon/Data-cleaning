@@ -21,17 +21,17 @@ Before any exploratory data analysis (EDA) or dashboarding, the dataset was clea
 
 All data quality issues identified, and the actions taken to resolve them are fully documented in the “Issues log” tab of the *retail_store_sales.xlsx* file.<br />
 
-This log provides transparency on:
-•	The issue detected
-•	The quantity of rows in which the issue is witnessed
-•	An indication of whether the issue is solvable (“Yes” or “No”)
+This log provides transparency on:<br />
+•	The issue detected<br />
+•	The quantity of rows in which the issue is witnessed<br />
+•	An indication of whether the issue is solvable (“Yes” or “No”)<br />
 •	The corresponding resolution on how the issue is handled with, or why the issue cannot be resolved<br /><br />
 
 **4) Summary of Insights**<br />
 --------------------------------
 **Channel level insights:**<br />
-•	Online channel significantly outperformed In-store sales in 2022
-•	In 2023 and 2024, Online and In-store sales show similar revenue performance
+•	Online channel significantly outperformed In-store sales in 2022<br />
+•	In 2023 and 2024, Online and In-store sales show similar revenue performance<br />
 •	Both channels grew in similar fashion from 2023 to 2024 indicating channel saturation<br />
 
 Implication: Channel expansion alone is unlikely to be the strongest growth lever<br />
@@ -56,9 +56,9 @@ Low Revenue + Low Growth (Deprioritize / Exit)
 **Revenue Volatility Analysis (Risk Lens)**
 The most volatile product categories based on YoY revenue growth:<br />
 
-Category	  2023 YoY	 2024 YoY
-Beverages  -12.3%	   +33.1%
-Butchers   -25.9%	   +12.3%
+Category	  2023 YoY	 2024 YoY<br />
+Beverages  -12.3%	   +33.1%<br />
+Butchers   -25.9%	   +12.3%<br />
 Food	      +18.5%	   -2.5%<br /><br />
 
 
@@ -66,7 +66,7 @@ Food	      +18.5%	   -2.5%<br /><br />
 ----------------------------------
 *Answer to main business question: The data indicates that future investment should prioritize product expansion over channel expansion*<br />
 
-**•	Prioritize product expansion over channel expansion:** Online and In-store channels have converged in performance since 2023, limiting incremental upside from further channel-focused investment.
-**•	Invest selectively in high-growth product categories:** Beverages, Furniture, and Food combine strong revenue contribution with growth momentum, while Computers and electronic accessories represent promising emerging opportunities.
-**•	Optimize mature categories, don’t overinvest:** Butchers and Electronic Household Essentials should focus on efficiency and margin protection rather than aggressive growth.
+**•	Prioritize product expansion over channel expansion:** Online and In-store channels have converged in performance since 2023, limiting incremental upside from further channel-focused investment.<br />
+**•	Invest selectively in high-growth product categories:** Beverages, Furniture, and Food combine strong revenue contribution with growth momentum, while Computers and electronic accessories represent promising emerging opportunities.<br />
+**•	Optimize mature categories, don’t overinvest:** Butchers and Electronic Household Essentials should focus on efficiency and margin protection rather than aggressive growth.<br />
 **•	Deprioritize low-impact categories:** Patisserie and Milk Products show limited scale and growth and are unlikely to generate meaningful returns.
