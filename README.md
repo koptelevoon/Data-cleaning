@@ -34,7 +34,7 @@ This log provides transparency on:<br />
 •	In 2023 and 2024, Online and In-store sales show similar revenue performance<br />
 •	Both channels grew in similar fashion from 2023 to 2024 indicating channel saturation<br />
 
-Implication: Channel expansion alone is unlikely to be the strongest growth lever<br />
+Implication: Channel expansion alone is unlikely to be the strongest growth lever<br /><br />
 
 **Product Portfolio Insights:**<br />
 High Revenue + High Growth (Scale / Invest)
@@ -51,7 +51,7 @@ Low Revenue + High Growth (Emerging Opportunities)
 
 Low Revenue + Low Growth (Deprioritize / Exit)
 -	Milk products
--	Patisserie<br />
+-	Patisserie<br /><br />
 
 **Revenue Volatility Analysis (Risk Lens)**<br />
 The most volatile product categories based on YoY revenue growth:<br />
