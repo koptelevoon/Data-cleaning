@@ -4,7 +4,7 @@
 
 This project analyzes retail revenue data from 2022–2024 to support strategic investment decisions. Using Power BI, I evaluate product category performance and sales channel dynamics (Online vs In-store) to identify where future growth opportunities lie and where investments should be optimized or prioritized.<br />
 
-![Uploading Screenshot dashboard.png…]()<br />
+![Screenshot Dashboard](https://github.com/koptelevoon/Data-cleaning/blob/bb62cd1be1a0c791c2ee69e1006ee9a57e0a4da5/Screenshot%20dashboard.png)<br />
 
  
 **2)	North Star Metrics and Dimensions**<br />
